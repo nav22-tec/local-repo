@@ -1,2 +1,1 @@
-<p>This is a new repo.</p>
-<p>hello world.</p>
+<p>This is a repo.</p>
